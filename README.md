@@ -19,5 +19,3 @@ This repository contains the MATLAB codes used to generate the numerical results
 ### Usage
 
 All simulations are implemented in MATLAB. Run the scripts in the corresponding folders to reproduce the numerical results.
-
-Simulation parameters are specified in the individual scripts.
