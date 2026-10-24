@@ -1,10 +1,8 @@
 # JanusChimera
 
-## MATLAB Simulation Codes
-
 This repository contains the MATLAB codes used to generate the numerical results and figures for our study of chimera states in higher-dimensional coupled oscillators.
 
-### Contents
+## Contents
 
 - **`Fig2/`** — Numerical simulations illustrating the evolution of oscillators for representative parameter values.
 
@@ -16,6 +14,6 @@ This repository contains the MATLAB codes used to generate the numerical results
 
 - **`FigS2/`** — Numerical simulations with more general initial conditions, illustrating the robustness of the collective states.
 
-### Usage
+## Usage
 
 All simulations are implemented in MATLAB. Run the scripts in the corresponding folders to reproduce the numerical results.
